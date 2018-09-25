@@ -102,7 +102,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = PACKAGE + "-fred"
 DESCRIPTION = "Essa é uma biblioteca de aprendizado do curso Python Pro para exemplificar construção de projetos " \
               "Python no curso PyTools"
 AUTHOR = "Frederico Araujo"

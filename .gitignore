@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+libpythonpro.egg-info*/*
+libpythonpro_fred.egg-info*/*
