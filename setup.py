@@ -103,7 +103,8 @@ def find_package_data(
 
 PACKAGE = "libpythonpro"
 NAME = PACKAGE
-DESCRIPTION = "Essa é uma biblioteca de aprendizado do curso Python Pro para exemplificar construção de projetos Python no curso PyTools"
+DESCRIPTION = "Essa é uma biblioteca de aprendizado do curso Python Pro para exemplificar construção de projetos " \
+              "Python no curso PyTools"
 AUTHOR = "Frederico Araujo"
 AUTHOR_EMAIL = "fredericoaraujo@gmail.com"
 URL = "https://github.com/fredericoaraujo/libpythonpro"
