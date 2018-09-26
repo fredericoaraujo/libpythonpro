@@ -10,8 +10,6 @@ Link para o curso [Python Pro](https://wwww.python.pro.br)
 [![Python 3](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/)
 [![codecov](https://codecov.io/gh/fredericoaraujo/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/fredericoaraujo/libpythonpro)
 
-[![codecov](https://codecov.io/gh/fredericoaraujo/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/fredericoaraujo/libpythonpro)
-
 Suporta a versão 3 do Python
 
 Para instalar:
