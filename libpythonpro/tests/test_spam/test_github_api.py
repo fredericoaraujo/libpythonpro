@@ -6,17 +6,16 @@ from libpythonpro import github_api
 
 
 @pytest.fixture
-def avatar_url():
+def avatar_url(mocker):
     resp_mock = Mock()
     url_avatar = "https://avatars3.githubusercontent.com/u/3457115?v=4"
     resp_mock.json.return_value = {
         "login": "renzon",
         "avatar_url": url_avatar,
     }
-    get_original = github_api.requests.get
-    github_api.requests.get = Mock(return_value=resp_mock)
-    yield url_avatar
-    github_api.requests.get = get_original
+    get_mock = mocker.patch('libpythonpro.github_api.requests.get')
+    get_mock.return_value = resp_mock
+    return url_avatar
 
 
 def test_buscar_avatar(avatar_url):
