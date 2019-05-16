@@ -6,10 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 Link para o curso [Python Pro](https://wwww.python.pro.br)
 
 [![Build Status](https://travis-ci.org/fredericoaraujo/libpythonpro.svg?branch=master)](https://travis-ci.org/fredericoaraujo/libpythonpro)
-
 [![Updates](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/shield.svg)](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/)
-
 [![Python 3](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/fredericoaraujo/libpythonpro/)
+[![codecov](https://codecov.io/gh/fredericoaraujo/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/fredericoaraujo/libpythonpro)
 
 Suporta a versão 3 do Python
 
