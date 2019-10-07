@@ -2,7 +2,7 @@ flake8==3.5.0
 
 # deps pytest
 pytest==3.8.2
-pytest-cov
+pytest-cov==2.8.1
 pytest-mock==1.10.4
 
 # deps principais
