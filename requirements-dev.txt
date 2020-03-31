@@ -3,7 +3,7 @@ flake8==3.5.0
 # deps pytest
 pytest==3.8.2
 pytest-cov
-pytest-mock==1.10.4
+pytest-mock==3.0.0
 
 # deps principais
 -r requirements.txt
