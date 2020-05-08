@@ -1,7 +1,7 @@
 flake8==3.7.9
 
 # deps pytest
-pytest==5.4.1
+pytest==5.4.2
 pytest-cov
 pytest-mock==3.1.0
 
