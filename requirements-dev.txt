@@ -1,4 +1,4 @@
-flake8==3.8.1
+flake8==3.8.3
 
 # deps pytest
 pytest==5.4.2
